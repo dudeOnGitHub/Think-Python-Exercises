@@ -8,7 +8,7 @@ Papildus: Kā izveidot jaunu repository uz lokālās mašīnas, lai var strādā
 1. GitBash Here uz foldera
 2. git init
 3. git pull <link>
-4. <izmaiòas lokâli>
+4. <izmaiņas lokâli>
 5. git remote add <repository nosaukums> <link>
 6  git add -A
 7. git commit -am <link>
