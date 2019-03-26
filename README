@@ -2,18 +2,7 @@
 
 Šeit var atrast uzdevumus, ko esmu pildījis no Python mācību grāmatām.
 
-Papildus: Kā izveidot jaunu repository uzlokālās mašīnas, lai var strādāt ar git bash push un pull
-
-<izveido repository GitHubā>
-<izveido folderi uz lokālās mašīnas>
-1. GitBash Here uz foldera
-2. git init
-3. git pull <link>
-4. <izmaiņas lokāli>
-
-Šeit var atrast uzdevumus, ko esmu pildījis no Python mācību grāmatām.
-
-Papildus: Kā izveidot jaunu repository uzlokālās mašīnas, lai var strādāt ar git bash push un pull
+Papildus: Kā izveidot jaunu repository uz lokālās mašīnas, lai var strādāt ar git bash push un pull
 <izveido repository GitHubā>
 <izveido folderi uz lokālās mašīnas>
 1. GitBash Here uz foldera
