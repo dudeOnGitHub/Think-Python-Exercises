@@ -1,9 +1,10 @@
-<izveido repository GitHub�>
-<izveido folderi uz lok�l�s ma��nas>
+<izveido repository GitHubâ>
+<izveido folderi uz lokâlâs maðînas>
 1. GitBash Here uz foldera
 2. git init
 3. git pull <link>
-4. <izmai�as lok�li>
+4. <izmaiòas lokâli>
 5. git remote add <repository nosaukums> <link>
+5,5 <dažkārt vajag git add -A>
 6. git commit -am <link>
 7. git push <link>
